@@ -104,7 +104,6 @@ for(unsigned i = 0; i < current_values.size(); i++)
 }
 //learning mode done, operation mode from here
 
-
 /*The table columns have a fixed order. Use that! Vectors' elements can be accessed
 directly, using the indexnumber of their elements, use that for picking Nodes for processing.
 LEARNING MODE
